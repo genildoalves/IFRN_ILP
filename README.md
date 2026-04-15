@@ -1,2 +1,2 @@
 # IFRN_ILP
-Discilina do curso de TSI
+Disciplina do curso de TSI
